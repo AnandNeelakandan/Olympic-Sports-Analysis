@@ -1,5 +1,6 @@
 # Olympic-Sports-Analysis
 🏅 Olympic Sports Analytics Project
+
 📌 Overview
 
 The Olympic Sports Analytics Project is a comprehensive data-driven study of the Olympic Games, designed to uncover historical trends in participation, event structures, and medal distribution across decades. Using Microsoft Excel and Power BI, this project transforms raw datasets into 36 actionable insights (18 per tool), supported by clean visualizations and interactive dashboards.
