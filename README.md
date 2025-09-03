@@ -104,6 +104,8 @@ Automate pipelines using Python/Power Query M.
 📧 Contact
 
 📌 Developed by: [Anand Neelakandan]
+
 🔗 GitHub: [https://github.com/AnandNeelakandan?tab=repositories]
+
 💼 LinkedIn: []
 ### Watch the full video presentation here:https://drive.google.com/file/d/1Gqf_pI4e-o6BJEAV7ZboDp4IPlyb7zRG/view?usp=drive_link
