@@ -12,8 +12,11 @@ The primary objective of this project is to perform a detailed and methodologica
 🛠️ Tools Used
 
 SQL: Data extraction and EDA
+
 Excel: Data processing and preliminary analysis
+
 Power BI: Interactive dashboard creation
+
 MySQL: Database management
 
 ### Watch the full video presentation here:https://drive.google.com/file/d/1Gqf_pI4e-o6BJEAV7ZboDp4IPlyb7zRG/view?usp=drive_link
