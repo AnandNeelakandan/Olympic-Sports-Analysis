@@ -1,5 +1,6 @@
 # Olympic-Sports-Analysis
 Capstone Project: Olympic Games analysis using Excel, Power BI, and SQL
+
 📊 Project Overview
 The Olympic Sports Analytics project is a comprehensive data-driven exploration of the Olympic Games, aiming to uncover patterns in athlete participation, event structures, and medal distribution across decades. Leveraging historical Olympic datasets, this project transforms raw data into meaningful insights using two widely adopted analytical tools: Microsoft Excel and Power BI.
 
