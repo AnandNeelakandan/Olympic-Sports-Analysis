@@ -107,5 +107,5 @@ Automate pipelines using Python/Power Query M.
 
 🔗 GitHub: [https://github.com/AnandNeelakandan?tab=repositories]
 
-💼 LinkedIn: []
+💼 LinkedIn: [www.linkedin.com/in/anand-neelakandan-ab3219380]
 ### Watch the full video presentation here:https://drive.google.com/file/d/1Gqf_pI4e-o6BJEAV7ZboDp4IPlyb7zRG/view?usp=drive_link
